@@ -43,10 +43,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   </parent>
 
   <groupId>project1</groupId>
-  <artifactId>newproject</artifactId>
+  <artifactId>mproject</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>newproject</name>
+  <name>mproject</name>
   <description>Build and packager for LOCKSS Plugins.</description>
 </project>
