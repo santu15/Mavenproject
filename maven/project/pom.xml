@@ -42,11 +42,11 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <relativePath/>
   </parent>
 
-  <groupId>project1</groupId>
-  <artifactId>mproject</artifactId>
+  <groupId>sample</groupId>
+  <artifactId>project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>mproject</name>
+  <name>project</name>
   <description>Build and packager for LOCKSS Plugins.</description>
 </project>
